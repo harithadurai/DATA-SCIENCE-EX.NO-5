@@ -79,9 +79,9 @@ x1=[3,9,11]
 
 y1=[6,15,7]
 
-plt.bar(x,y,color='r')
+plt.bar(x,y,color='b')
 
-plt.bar(x1,y1,color='g')
+plt.bar(x1,y1,color='p')
 
 plt.title("Bar graph")
 
@@ -97,7 +97,7 @@ x=[1,2,3]
 
 y=[7,3,9]
 
-plt.plot(x,y,color='g')
+plt.plot(x,y,color='r')
 
 plt.title("my first graph")
 
@@ -248,11 +248,11 @@ y2=[5,7,9,11,13]
 
 y3=[2,4,6,8,10]
 
-plt.fill_between(x,y1,color='green',label='y1')
+plt.fill_between(x,y1,color='blue',label='y1')
 
-plt.fill_between(x,y2,color='blue',label='y2')
+plt.fill_between(x,y2,color='red',label='y2')
 
-plt.fill_between(x,y3,color='red',label='y3')
+plt.fill_between(x,y3,color='green',label='y3')
 
 plt.title("fill between is")
 
@@ -306,7 +306,7 @@ values=[5,6,7,3,2]
 
 names=['A','B','C','D','E']
 
-plt.bar(names,values,color='green')
+plt.bar(names,values,color='violet')
 
 plt.show()
 
