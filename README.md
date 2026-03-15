@@ -390,4 +390,4 @@ plt.show()
 
 
 # Result:
-Thus , all te data visualization techniques of matplotlib has been implemented successfully.
+Thus all the data visualization techniques of matplotlib has been implemented successfully.
