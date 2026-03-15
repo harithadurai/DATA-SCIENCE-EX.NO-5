@@ -89,7 +89,7 @@ plt.xlabel('x-axis')
 
 plt.ylabel('y-axis')
 
-plt.show(_)
+plt.show()
 
 <img width="835" height="669" alt="image" src="https://github.com/user-attachments/assets/995b0431-67e6-4ed5-a3e3-ad5e25636a95" />
 
